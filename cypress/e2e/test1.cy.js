@@ -14,7 +14,7 @@ describe('Open modus create website and verify components on it', () => {
             this.contactdata = contactdata
          })    
 
-          cy.visit('https://moduscreate.com/')
+          cy.visit('https://moduscreate.com/')//website
 
     })
 
